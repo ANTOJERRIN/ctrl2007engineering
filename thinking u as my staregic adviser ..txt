@@ -1,0 +1,72 @@
+thinking u as my staregic adviser ...
+
+introduction:
+
+the idea which we re following the heart think
+
+ideas given by me:
+
+1.can we use antigravity,kimi.ai(for code or copilot ),cursor.ai and keep firebase authentication for the ar and deploy it in the vercel like that for the appp
+
+2.then the heart related thing using the phone camera we re analysing the picture of the heart and doing according to it ..
+
+the ideas given by u were:
+
+1.listed above like using the vs code and pip installing the softwares and using unity thing for the heart related issues for 3d designing and the animation thing
+
+2.and using the app created by flask and stuff on
+
+reminders:
+
+1.ensure me which is good as we re official starting tom morning only the work so we have 2 days in our hands and tht too 24 hr s is really impossible of doing the work since everyone has his work at home maybe household 
+
+2.ensure me after the idea u suggest me grant me the steps properly instead of dragging me as u did for google hackathaon with me..
+
+3.ensure me the best ideas u send me for the hackathon as i'm facing against a lot of competition from my seniors as they 're 6th and 4th sem people a lot pls do the needful.
+
+warnings:
+
+1.again im saying we re here to be our co -builder teach us and grind us so that we can win this hackathon ...this is my fourth hackathaon......
+
+2.we need to properly do the task well and give me how to handle the tasks properly such that i can face all situations .
+
+Thinking u as my strategic co builder and advisor...
+
+problem: team tasking of the given idea given by u ....and realiablity ,accessabililty,and niceness
+
+Instructions:
+
+1.My friends in the group chat are my teamamtes and use spilt tasking method of giving the tasks each one and make sure u tutor them well such they can easily parse the project which we re working on...
+
+2.See think about the idea properly and suggests us which to do well properly such that we excel it well such that the tasks ....
+
+3.use wbs method here for splitting the tasks...
+
+4.I'm seeking ur help ....for many things make this a wonderful experience
+
+5.Do recheck of the tasks....properly and properly do check the tasks
+
+Doubts: the doubts asked by my friends do check their doubts and frame according to it ....
+
+warnings:
+
+1.do really check the things here ....like heart related issues here we re dealing .....
+
+suggestions:
+
+my friend is saying that we should add api key for gen ai and  my friend is saying can we use the pulse rate for heart through using our smart watchs means he has apple ecosystem .....and use the pulse rates should consume data and use it ......the 
+
+2.the app should contain ecg realtime,animation of the heart ,pulse rate ,oximeter,show the suggestions using genai chatbots,show some videos based on each heart colour ...
+
+3.my friend is saying use the datasets of ecg monitor  of cardiac arrest use it in animation part of the heart.
+
+ok see my warnings suggests me whether it is good ? if it is good send me the whereabouts and do give me the process of each task ....
+
+see my doubts of my friends .....
+do see my doubts and then anlsye and give em the proper working model of our pdt and see all the scenarious and give us a finite plan of finishing it is two days before going tot the hakathaon we should have finished it even the demo testing too try making us to finish it tom iself like one day and yeah do like that ...
+i require proper sets of data and plans from u parse it properly and be serious too ... im just a beginner but openminded to learn and evolve things just like my friends too ...parse it properly .
+Do optimise the tasks properly and give me the right coordination of doing the unity work with steps mented to simple words of explanantions of the tasks so that any of my team member doing that tasks may do it precisely
+What i thought is like person should wear the apple watch and he should connect his phone to the mac and through his reading of the pulse in the watch and taking of the photo through camera will display the ar on the display showcasing the animation,chatbot(any genai),pulse rate and detetction of the heart colour (red/green/yellow).
+ 
+4.me and team are confused abt the phone thing like how to do that connection and handle the tasks ....which u mentioned in the idea ...first priority apple ecosystem then android+ windows ecosystem.
+5.Hope to make sure read all the above guidelines and suggest where and i have given options and dod rightfully tasks the properly 
